@@ -1,0 +1,17 @@
+This project implemented "game of life" game.
+
+Ruby version : 1.9.3
+Install libraries by running "bundle install"
+
+Users :
+
+Start Game by running "rake play"
+Run all tests by running "rake test"
+
+Developers :
+
+This project is currenlty implemented for two dimensional mat. This project is scalable 
+in design to extend this to multiple dimensions in future.
+
+Game rules are defaulted to default rule. This project is scalable to include multiple rules.
+
